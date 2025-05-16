@@ -16,7 +16,7 @@ Welcome to my world of code, creativity, and curiosity!
 
 ### 🚀 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,github,firebase,vscode" alt="Tech Stack" width="100%" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,github,firebase,mysql,python,vscode" alt="Tech Stack" width="100%" />
 
 ---
 
