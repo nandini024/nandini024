@@ -25,7 +25,7 @@ Welcome to my world of code, creativity, and curiosity!
 - 🍔 **Online Food Ordering System** using HTML, CSS, JS & Firebase  
 - 📦**HealthCare Hub**  Using CSS HTML
 - 🎨 **Random Color,Random flag & Image Generators** for fun & learning  
-- 📦 **Shopping Cart UI with Quantity Control** – responsive & slee
+- 📦 **Shopping Cart UI with Quantity Control** – responsive
 
 ---
 
